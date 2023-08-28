@@ -6,7 +6,6 @@ import {
   MEMORY,
   RESETMEMORY,
   ADDMEMORY,
-  memory,
 } from "./../actions";
 
 export const initialState = {
