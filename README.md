@@ -10,18 +10,6 @@ Bu hafta reducer yaklaşımını incelediniz. Bu projede bugün öğrendiklerimi
 
 ![Hesap Makinası Örnek](proje-hedefi.gif)
 
-**_Görevlerinizi tek tek tamamladığınızdan ve ilerlemeden önce her bir görevi test ettiğinizden emin olun.._**
-
-## Talimatlar
-
-### Görev 1: Proje Kurulumu
-
-- [ ] Forklayın
-- [ ] Klonlayın
-- [ ] Ana dizine gidin
-- [ ] `npm install`
-- [ ] `npm start`
-
 ### Görev 2: Proje Gereksinimleri
 
 #### Reducer'ı bağlayın
